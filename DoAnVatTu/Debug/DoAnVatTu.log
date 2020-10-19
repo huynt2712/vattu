@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\thanh\Downloads\Compressed\DoAnVatTu\DoAnVatTu\myLib.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\thanh\Downloads\Compressed\DoAnVatTu\DoAnVatTu\myLib.h(25,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\thanh\Downloads\Compressed\DoAnVatTu\DoAnVatTu\myLib.h(25,35): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  DoAnVatTu.vcxproj -> C:\Users\thanh\Downloads\Compressed\DoAnVatTu\Debug\DoAnVatTu.exe
